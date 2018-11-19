@@ -1,0 +1,1 @@
+{"users": [{"username": "Starman", "otp_seed": "TqZw2LvKQreED6yA", "password_salt": "KIqHlpmSIg3I5awf", "password_hash": "5b1165775b8677c262d1b99f6ce4cf4bf280bc6269d6cb0e783f91a76fed807d"}], "appName": "DevHacks Security Demo", "appSecret": "ChangedaaabbbcccBkOMLMXgrLJafbU1", "logDir": "../main/log.csv", "appAddress": "0.0.0.0", "appPort": 666}
